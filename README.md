@@ -5,22 +5,36 @@
 <br/>
 <h1>รายชื่อผู้เล่นในเซิรฟเวอร์</h1>
 <h2>Member</h2>
-
-<a href="#">
-    <img alt="lanyard" src="https://static.wixstatic.com/media/24a363_a5677cbe52084b9c875af929e03f1ceb~mv2.png/v1/fill/w_66,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Solight.png"/>
-</a>
 <br>
 
-<a href="#">
-    <img alt="lanyard" src="https://static.wixstatic.com/media/11062b_fe985b889c144b348eefc7bbc67018b4~mv2.png/v1/fill/w_45,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_fe985b889c144b348eefc7bbc67018b4~mv2.png"/>
-</a>
+|  Name        |   Xbox          |        Rank         |                 Youtube        |                 discord                |                      Icon                      |
+|:------------:|:---------------:|:-------------------:|:------------------------------:|:-------------------------------------:|:----------------------------------------------:|
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![](https://static.wixstatic.com/media/24a363_a5677cbe52084b9c875af929e03f1ceb~mv2.png/v1/fill/w_66,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Solight.png) |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+
+<h2>Junior</h2>
 <br>
-<a href="#">
-    <img alt="lanyard" src="https://static.wixstatic.com/media/11062b_adb5b939714d4b898142c8bff0cc9346~mv2.png/v1/fill/w_45,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_adb5b939714d4b898142c8bff0cc9346~mv2.png"/>
-</a>
 
-- Name: Solight
-- Xbox: SolightzZ
-- Rank: Developer Server 
+|  Name        |   Xbox          |        Rank         |                 Youtube        |                 discord                |                      Icon                      |
+|:------------:|:---------------:|:-------------------:|:------------------------------:|:-------------------------------------:|:----------------------------------------------:|
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![](https://static.wixstatic.com/media/24a363_a5677cbe52084b9c875af929e03f1ceb~mv2.png/v1/fill/w_66,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Solight.png) |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
+|  Solight     |     SolightzZ   | Developer Server    |   https://linktr.ee/solightz   |     https://discord.gg/gtqfbmvTJK      | ![]() |
 
-<br/>
