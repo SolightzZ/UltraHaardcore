@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ultra Hardcore classic BHS §k!!§r",
+    "description": "Discord: solightz",
+    "uuid": "87c81d57-efb8-489a-93ec-9e62033cae14",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    {
+      "description": "Discord: solightz ",
+      "type": "data",
+      "uuid": "7d663bbb-f330-44ca-bf3a-4b24cda22160",
+      "version": [0, 0, 1]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "1",
+      "name": "Default",
+      "memory_tier": 1
+    }
+  ],
+  "settings": [
+    {
+      "type": "label",
+      "text": "If you find a bug/eror, you can join our Discrod"
+    },
+    {
+      "type": "input",
+      "default": "https://discord.gg/gtqfbmvTJK",
+      "text": "Join Discord -> Sleeplite Server",
+      "name": ""
+    }
+  ]
+}

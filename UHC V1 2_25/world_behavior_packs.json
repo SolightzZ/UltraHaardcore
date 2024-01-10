@@ -1,0 +1,15 @@
+
+[
+	
+	{
+		"pack_id" : "87c81d57-efb8-489a-93ec-9e62033cae14",
+		"subpack" : "1",
+		"version" : [ 0, 0, 1 ]
+	},
+	
+	{
+		"pack_id" : "b063e66e-6b61-49af-8761-34d3938cd51c",
+		"subpack" : "chat",
+		"version" : [ 1, 0, 4 ]
+	}
+]
