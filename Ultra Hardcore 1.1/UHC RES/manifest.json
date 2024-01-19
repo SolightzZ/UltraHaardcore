@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Write code for the system by Solight, and another crucial part that we cannot do without is the person who enables us to create the UHC system.\n scoreboard @DeathArubanTM \nactionbar @ZNGG \nMEME Death Sound Effects @Viskkat \nUnicode-Bedrock jesdicaDomo",
+    "name": "Ultra Hardcore §cAlpha§f §k!!§r",
+    "uuid": "0f2ac9c1-1741-4429-af66-76fc758d2ec8",
+    "version": [1, 1, 5],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    {
+      "description": "Discord: solightz",
+      "type": "resources",
+      "uuid": "87c81d57-efb8-489a-93ec-9e62033cae14",
+      "version": [1, 1, 4]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "1",
+      "name": "Default",
+      "memory_tier": 1
+    }
+  ],
+  "settings": [
+    {
+      "type": "label",
+      "text": "If you find a bug/eror, you can join our Discrod"
+    },
+    {
+      "type": "input",
+      "default": "https://discord.gg/gtqfbmvTJK",
+      "text": "Join Discord -> Sleeplite Server",
+      "name": ""
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.8.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "floating:text",
+      "textures": {
+        "default": "textures/entity/text"
+      },
+      "materials": { 
+        "default": "bat" 
+      },
+      "geometry": {
+        "default": "geometry.geometry.text"
+      },
+      "render_controllers": [ "controller.render.default" ],
+      "spawn_egg": {
+        "base_color": "#ffffff",
+        "overlay_color": "#ffffff"
+      }
+    }
+  }
+}
