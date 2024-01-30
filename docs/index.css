@@ -29,28 +29,20 @@
 
 .img {
     min-height: 100vh;
-    background-image: url(img/wallpapers.gif);
+    background-image: url(img/Pixel\ Cities.gif);
     background-size: cover;
     background-position: center;  
 }
 
 .title {
-  width: 40%;
-  padding: 8rem 1rem;
+  width: 350px;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  transition: all .35s;
+  margin-top: 120px;
 }
 
-.title:hover {
-    width: 20%;
-    padding: 8rem 1rem;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    transition: all .35s;
-  }
 
 * {
     color-scheme: dark;
@@ -86,3 +78,28 @@
     box-shadow: 0 0 10px #00000040
 }
 
+
+.discord img {
+    width: 100px;
+    height: auto;
+    margin: auto auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 320px;
+    transition: all .35s;
+    border-radius: 10px;
+}
+
+.discord img:hover {
+    width: 70px;
+    height: auto;
+    margin: auto auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 320px;
+    transition: all .35s;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
