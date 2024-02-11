@@ -24,3 +24,8 @@ step 3
 ```js
 /functions game/end
 ```
+step 4
+- Winner Command
+```js
+/functions rank/win
+```
