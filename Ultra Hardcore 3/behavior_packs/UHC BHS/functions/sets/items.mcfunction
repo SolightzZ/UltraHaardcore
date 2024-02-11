@@ -1,0 +1,1 @@
+execute @a ^^^ structure load com ~ ~ ~ 

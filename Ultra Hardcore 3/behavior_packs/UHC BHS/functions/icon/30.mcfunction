@@ -1,0 +1,11 @@
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"              30"}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"     "}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"     "}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"     "}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"     "}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":" 30  30"}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"     "}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"     "}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"     "}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"     "}]}
+execute @e[type=npc] ^^^ execute @a ^^^ tellraw @s {"rawtext":[{"text":"              30"}]}
