@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Write code for the system by Solight, and another crucial part that we cannot do without is the person who enables us to create the UHC system.\n scoreboard @DeathArubanTM \nactionbar @ZNGG \nMEME Death Sound Effects @Viskkat \nUnicode-Bedrock jesdicaDomo\nUnicode Jackworlds\nPlayer Model NPC TEAM CUBITOS MC\nCustom NPC GUI @Nate7676\nCustom Particle By Nate7676",
+    "name": "Ultra Hardcore I§f §k!!§r",
+    "uuid": "935f225d-bf64-4a98-aef4-e25836ee40a9",
+    "version": [1, 1, 5],
+    "min_engine_version": [1, 14, 0]
+  },
+  "modules": [
+    {
+      "description": "Discord: solightz",
+      "type": "resources",
+      "uuid": "87c81d57-efb8-489a-93ec-9e62033cae14",
+      "version": [1, 1, 4]
+    }
+  ],
+  "settings": [
+    {
+      "type": "label",
+      "text": "If you find a bug/eror, you can join our Discrod"
+    },
+    {
+      "type": "input",
+      "default": "https://discord.gg/gtqfbmvTJK",
+      "text": "Join Discord -> Sleeplite Server",
+      "name": ""
+    }
+  ]
+}
