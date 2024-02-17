@@ -1,0 +1,1 @@
+titleraw @a actionbar {"rawtext":[{"text":" §f4§7/9§r    "},{"score":{"name":"@e[type=npc]","objective":"gm"}},{"text":"§7/2400§r"},{"text":"   §f1000§7/500"}]}
