@@ -1,8 +1,0 @@
-tag @a[tag=team1] add "nametag:§7[]§r §c@s "
-tag @a[tag=team2] add "nametag:§7[]§r §1@s "
-tag @a[tag=team3] add "nametag:§7[]§r §g@s "
-tag @a[tag=team4] add "nametag:§7[]§r §a@s "
-tag @a[tag=team5] add "nametag:§7[]§r §d@s "
-tag @a[tag=team6] add "nametag:§7[]§r §b@s "
-tag @a[tag=team7] add "nametag:§7[]§r §6@s "
-tag @a[tag=team8] add "nametag:§7[]§r §7@s "
